@@ -1,5 +1,5 @@
-import dto.Peg;
-import dto.SquarePeg;
+import peg.Peg;
+import peg.SquarePeg;
 
 public class SquarePegAdapter implements Peg {
     private final SquarePeg squarePeg;

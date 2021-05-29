@@ -1,6 +1,6 @@
-import dto.RoundHole;
-import dto.RoundPeg;
-import dto.SquarePeg;
+import hole.RoundHole;
+import peg.RoundPeg;
+import peg.SquarePeg;
 
 public class DemoApp {
     public static void main(String[] args) {

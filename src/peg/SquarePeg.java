@@ -1,4 +1,4 @@
-package dto;
+package peg;
 
 public class SquarePeg {
     private final int side;

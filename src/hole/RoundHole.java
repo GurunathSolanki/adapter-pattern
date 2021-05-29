@@ -1,4 +1,6 @@
-package dto;
+package hole;
+
+import peg.Peg;
 
 public class RoundHole {
     private final int radius;
